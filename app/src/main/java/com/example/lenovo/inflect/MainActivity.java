@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-//界面
+//界面1
 public class MainActivity extends  Activity {
     private TextView textView;
     private ImageView imageView2;
